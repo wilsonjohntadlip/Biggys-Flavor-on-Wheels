@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+}
+
+
+.btn {
+    background-color: #FF7D3B;
+    color: white;
+    
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    border-radius: 6px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
